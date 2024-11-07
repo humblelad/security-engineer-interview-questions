@@ -1,8 +1,8 @@
 # Security Engineer/ Application Security/ Information security Question List
 
 1. You are a security engineer in a startup having customers which store a lot of sensitive info in the servers. How are you going to secure it and which cloud platform is best for it ? Additionally, what may be the best way for password storage? 
-2. You are part of the application hashtag#security team for a Fortune 500 company. It was recently found out that sensitive email communication has been leaked to the press. It is suspected to be an inside job. What steps would you deal to prevent insider threat and detect future incidents to a certain extent ? 
-3. our team deploys regular phishing attacks via email to make employees give out their personal details like passwords.
+2. You are part of the application security team for a Fortune 500 company. It was recently found out that sensitive email communication has been leaked to the press. It is suspected to be an inside job. What steps would you deal to prevent insider threat and detect future incidents to a certain extent ? 
+3. Your team deploys regular phishing attacks via email to make employees give out their personal details like passwords.
 Now it's a running joke among CEO and other employees that phishing comes only via email and link clicks . This has embarrassed the CISO . How are you going to prove them wrong and surprise them with a different phishing technique( red team campaign ) this time around ?
 4. Your website is sending cookies via set-cookie HTTP header. The web dev team have not set any same site attribute. 
 In your previous org, 7 yrs back, the same scenario was observed and fixed. How is the browser going to treat requests as of today or you are going to flag it now too ?

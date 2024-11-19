@@ -15,4 +15,6 @@ How can we send that highscore value to DB without the user being able to tamper
 10. What is GRUB in Linux?
 11. Why messages are encrypted but passwords are hashed ?
 12. What is the use of Idempotency keys and why are they used in payment systems ?
-13. What is a XHR request and also explain the readyState property. 
+13. What is a XHR request and also explain the readyState property.
+14. As an Offensive security engineer, how can you use Exponential backoff method during a particular pentest? 
+15. What would you suggest the Junior Backend Developer in your company who wants help in designing simple check/prevention to fix File path traversals attacks ?

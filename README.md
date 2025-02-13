@@ -25,3 +25,4 @@ How can we send that highscore value to DB without the user being able to tamper
 18. You have a web application hosted on an EC2 instance in a public subnet. You need to configure security to allow only HTTP and HTTPS inbound traffic from the internet while permitting outbound traffic for essential services like DNS and S3. How would you design this setup using Security Groups and Network ACLs, and how would their stateful and stateless characteristics influence your approach? ( * this question is more about STATE than your understanding and less about how to configure *)
 19. What does aws sts get-caller-identity command result in and what is it's use?
 20. What does an Air Gap Environment mean and why is it used?
+21. What is the benefit of CIS benchmarking ?

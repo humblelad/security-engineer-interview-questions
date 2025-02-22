@@ -27,3 +27,4 @@ How can we send that highscore value to DB without the user being able to tamper
 20. What does an Air Gap Environment mean and why is it used?
 21. What is the benefit of CIS benchmarking ?
 22. Are Kubernetes pods mutable or immutable by default ?
+23. Explain wrap around method in low level programming? (hint: modular arithmetic)

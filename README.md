@@ -1,5 +1,5 @@
 # security-engineer-interview-questions
-The question list which I share on linkedin to prepare for security engineering jobs.
+The question list which I share on linkedin to prepare for security engineering jobs including scenario based questions.
 # Security Engineer/ Application Security/ Information security Question List
 
 1. You are a security engineer in a startup having customers which store a lot of sensitive info in the servers. How are you going to secure it and which cloud platform is best for it ? Additionally, what may be the best way for password storage? 
@@ -28,3 +28,4 @@ How can we send that highscore value to DB without the user being able to tamper
 21. What is the benefit of CIS benchmarking ?
 22. Are Kubernetes pods mutable or immutable by default ?
 23. Explain wrap around method in low level programming? (hint: modular arithmetic)
+24. You accidentally publicly share one AMI from your AWS account. The ami in itself is harmless with no sensitive api keys. Still, can the now public ami cause any financial bill for you or not if others start using it / deploying instances ?

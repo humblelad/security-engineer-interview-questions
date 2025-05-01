@@ -29,3 +29,4 @@ How can we send that highscore value to DB without the user being able to tamper
 22. Are Kubernetes pods mutable or immutable by default ?
 23. Explain wrap around method in low level programming? (hint: modular arithmetic)
 24. You accidentally publicly share one AMI from your AWS account. The ami in itself is harmless with no sensitive api keys. Still, can the now public ami cause any financial bill for you or not if others start using it / deploying instances ?
+25. You're inside a Kubernetes pod in an AWS EKS cluster. The pod has outbound internet access and no egress restrictions. You notice you can access http://169.254.169.254. What can you do as an attacker with this access?
